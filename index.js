@@ -19,7 +19,7 @@ function createAndAppendCountries(data) {
     // console.log(data);
     let countrycardCountainer = document.createElement('div');
     document.getElementById("resultCountries").appendChild(countrycardCountainer);
-    countrycardCountainer.classList.add("m-auto", "country-card", "col-11", "col-md-5", "d-flex", "flex-row");
+    countrycardCountainer.classList.add("mr-auto", "country-card", "col-11", "col-md-5", "d-flex", "flex-row");
     let div1Cont = document.createElement('div');
     countrycardCountainer.appendChild(div1Cont);
     let imgele = document.createElement("img");
