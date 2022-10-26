@@ -30,6 +30,8 @@
 }
 
 .country-name {
+    margin-bottom: 20px!important;
+    margin-right: 10px!important;
     color: #183b56;
     font-family: "Roboto";
     font-size: 22px;
